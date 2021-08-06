@@ -1,4 +1,4 @@
-# Model Card for Time-Series Analysis 
+# Model Card for Time-Series Analysis [DX Expert 후속과제]
 
 **[시계열 관련 그림]**  
 
@@ -7,7 +7,7 @@
 
 ## 1. Model Details
 
-* Devloper: DX추진팀, 2021년
+* Devloper:
 
 * Overview: 다른 메탈(원자재) 시황, 경제 지표를 활용하여 1년/3년 단위의 니켈 평균 가격을 분기 별(년도 별)로 예측하는 모델
 
@@ -35,6 +35,10 @@
 * Outputs
 ```
 1~3년 일/주/분기 별 니켈 가격 
+``` 
+* Installed Packages
+```
+...
 ``` 
 * Version History
 ```
@@ -68,7 +72,9 @@ DX추진팀
  
 *	MAE
 
-## 7.	Considerations
+## 7. Model Zoo
+
+## 8.	Considerations
 
 *	Trade-Offs
 
