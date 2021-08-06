@@ -1,4 +1,4 @@
-# Model Card for Time-Series Analysis [DX Expert 후속과제]
+# Model Card for Time-Series Analysis
 
 **[시계열 관련 그림]**  
 
