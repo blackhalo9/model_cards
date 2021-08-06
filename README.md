@@ -44,11 +44,11 @@
 ```
 v1.0 (2021-08-06): 주요 변경 사항 포함
 ```
+* References
 * Owners
 ```
 DX추진팀
 ```
-* References
 
 ## 4. Data
 
